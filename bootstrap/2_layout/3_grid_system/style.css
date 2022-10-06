@@ -1,0 +1,14 @@
+body {
+    background-color: #f36520;
+}
+header, nav, main {
+    background-color: #fff;
+    min-height: 10bh;
+
+}
+header {
+    margin:2vh auto;
+}
+nav,main {
+    min-height: 80vh;
+}
